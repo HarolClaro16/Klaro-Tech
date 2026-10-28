@@ -1,0 +1,17 @@
+     # Java y Maven
+     target/
+     *.class
+
+     # Node y Angular
+     node_modules/
+     dist/
+     .angular/
+
+     # Secretos y configuración local: nunca se suben a Git
+     .env
+     *.env
+
+     # Editores y sistema
+     .idea/
+     .vscode/
+     Thumbs.db
